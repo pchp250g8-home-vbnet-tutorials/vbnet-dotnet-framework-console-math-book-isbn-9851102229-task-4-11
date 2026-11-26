@@ -1,0 +1,5 @@
+Between 91.7% and 91.8% of participants successfully completed the race.
+What is the minimum number of participants?
+
+В забеге удачно преодолели дистанцию (91,7%; 91,8%) участников.
+Каково минимальное число участников?
